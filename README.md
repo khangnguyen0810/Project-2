@@ -1,7 +1,7 @@
 # Project-2
 
 ## Description
-A project from Programing 1 Module
+A project from Programing 1 Module.\
 Using cosine similarity to track the teacher's face in a video.
 
 ## Video
